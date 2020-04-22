@@ -1,0 +1,6 @@
+[submodule "q-eegnet_torch"]
+	path = q-eegnet_torch
+	url = git@github.com:pulp-platform/q-eegnet_torch.git
+[submodule "q-eegnet_wolf"]
+	path = q-eegnet_wolf
+	url = git@github.com:pulp-platform/q-eegnet_wolf.git
